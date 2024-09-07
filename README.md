@@ -3,7 +3,7 @@
 React version: 18.3.1
 
 ## Description
-
+(Watch the demo_video for demonstration)
 The website has a search bar feature to search for movies from a large database provided by OMDb API
 
 The boxes of movie titles are made using React Best Practices
